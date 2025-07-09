@@ -14,8 +14,8 @@
 
 ## 🎨 **Screenshot Oficial**  
 <div align="center">
-  <img src="screenshot/image.png" alt="Supermarket Dashboard Screenshot" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p><em>✨ Visualização real do dashboard em ação ✨</em></p>
+  <img src="supermarket-analytics/screenshot/image.png" alt="Supermarket Dashboard Screenshot" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p><em> Visualização real do dashboard em ação </em></p>
 </div>
 
 ---
